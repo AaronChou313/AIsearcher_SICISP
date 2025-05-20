@@ -1,0 +1,119 @@
+=== 算法运行日志 ===
+时间戳: 20250515_161416
+
+== 参数配置 ==
+particles: 20
+iterations: 100
+w: 0.7
+c1: 1.5
+c2: 1.5
+
+== 迭代记录 ==
+Iteration 1: 874.500916
+Iteration 2: 874.500916
+Iteration 3: 874.500916
+Iteration 4: 1179.826782
+Iteration 5: 1372.928955
+Iteration 6: 1372.928955
+Iteration 7: 1372.928955
+Iteration 8: 1372.928955
+Iteration 9: 1395.777832
+Iteration 10: 1405.916016
+Iteration 11: 1431.552612
+Iteration 12: 1431.552612
+Iteration 13: 1431.552612
+Iteration 14: 1483.183350
+Iteration 15: 1483.183350
+Iteration 16: 1553.471436
+Iteration 17: 1553.471436
+Iteration 18: 1553.471436
+Iteration 19: 1564.917358
+Iteration 20: 1571.044067
+Iteration 21: 1572.173706
+Iteration 22: 1572.173706
+Iteration 23: 1572.173706
+Iteration 24: 1572.173706
+Iteration 25: 1572.173706
+Iteration 26: 1572.173706
+Iteration 27: 1572.173706
+Iteration 28: 1580.903564
+Iteration 29: 1580.903564
+Iteration 30: 1586.995972
+Iteration 31: 1586.995972
+Iteration 32: 1586.995972
+Iteration 33: 1586.995972
+Iteration 34: 1586.995972
+Iteration 35: 1586.995972
+Iteration 36: 1586.995972
+Iteration 37: 1586.995972
+Iteration 38: 1586.995972
+Iteration 39: 1651.174683
+Iteration 40: 1662.802368
+Iteration 41: 1838.410522
+Iteration 42: 1838.410522
+Iteration 43: 1838.410522
+Iteration 44: 1838.410522
+Iteration 45: 1847.305054
+Iteration 46: 1875.485962
+Iteration 47: 1875.485962
+Iteration 48: 1875.485962
+Iteration 49: 1875.485962
+Iteration 50: 1875.485962
+Iteration 51: 1880.696899
+Iteration 52: 1880.696899
+Iteration 53: 1880.696899
+Iteration 54: 1880.696899
+Iteration 55: 1890.187500
+Iteration 56: 2143.682373
+Iteration 57: 2143.682373
+Iteration 58: 2150.277588
+Iteration 59: 2150.277588
+Iteration 60: 2150.277588
+Iteration 61: 2150.277588
+Iteration 62: 2150.277588
+Iteration 63: 2194.588623
+Iteration 64: 2194.588623
+Iteration 65: 2194.588623
+Iteration 66: 2194.588623
+Iteration 67: 2194.588623
+Iteration 68: 2194.588623
+Iteration 69: 2194.588623
+Iteration 70: 2194.588623
+Iteration 71: 2194.588623
+Iteration 72: 2224.739014
+Iteration 73: 2224.739014
+Iteration 74: 2224.739014
+Iteration 75: 2224.739014
+Iteration 76: 2224.739014
+Iteration 77: 2224.739014
+Iteration 78: 2224.739014
+Iteration 79: 2224.739014
+Iteration 80: 2224.739014
+Iteration 81: 2224.739014
+Iteration 82: 2227.338135
+Iteration 83: 2227.338135
+Iteration 84: 2227.338135
+Iteration 85: 2227.338135
+Iteration 86: 2227.338135
+Iteration 87: 2227.338135
+Iteration 88: 2227.338135
+Iteration 89: 2227.338135
+Iteration 90: 2227.338135
+Iteration 91: 2227.338379
+Iteration 92: 2227.338379
+Iteration 93: 2227.338379
+Iteration 94: 2227.338379
+Iteration 95: 2227.338379
+Iteration 96: 2227.338379
+Iteration 97: 2227.338379
+Iteration 98: 2227.338379
+Iteration 99: 2227.338379
+Iteration 100: 2227.338379
+
+== 最优解地理坐标 ==
+(35.55, 112.60)
+(35.48, 112.78)
+(35.53, 112.80)
+(35.45, 112.87)
+(35.45, 112.77)
+最终适应度 y*: 2227.338379
